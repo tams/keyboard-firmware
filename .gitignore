@@ -1,0 +1,10 @@
+*.d
+*.dep
+*.map
+*.o
+
+## Build outputs are intended to be committed, as simplistic preservation.
+!firmware.eep
+!firmware.elf
+!firmware.hex
+
